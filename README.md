@@ -1,7 +1,7 @@
-# marketplace-Web-spplication
-website link - https://haru-fashion.vercel.app/
 
 # Ecommerce Web Application
+
+website link - https://haru-fashion.vercel.app/
 
 Welcome to our Ecommerce Web Application! This application is designed to provide users with a seamless and enjoyable online shopping experience. Whether you're a customer looking for great products or an administrator managing the platform, this readme will guide you through the setup and usage of our application.
 
@@ -10,13 +10,7 @@ Welcome to our Ecommerce Web Application! This application is designed to provid
 1. [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-2. [Features](#features)
-    - [Customer](#customer)
-    - [Administrator](#administrator)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
+
 
 ## Getting Started
 
